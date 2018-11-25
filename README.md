@@ -1,5 +1,6 @@
 # discord-irc 
-
+[![Build Status](https://travis-ci.com/SatyrFarm/IRCdiscordBridge.svg?branch=master)](https://travis-ci.com/SatyrFarm/IRCdiscordBridge)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/af9f7e522bde46a89a317289db8add86)](https://www.codacy.com/app/SatyrFarm/IRCdiscordBridge?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SatyrFarm/IRCdiscordBridge&amp;utm_campaign=Badge_Grade)
 
 > Connects [Discord](https://discordapp.com/) and [IRC](https://www.ietf.org/rfc/rfc1459.txt) channels by sending messages back and forth.
 
