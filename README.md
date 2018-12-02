@@ -4,11 +4,9 @@
 
 > Connects [Discord](https://discordapp.com/) and [IRC](https://www.ietf.org/rfc/rfc1459.txt) channels by sending messages back and forth.
 
-## Example
-![discord-irc](http://i.imgur.com/oI6iCrf.gif)
 
 ## Installation and usage
-**Note**: discord-irc requires Node.js version 6 or newer, as it depends on [discord.js](https://github.com/hydrabolt/discord.js).
+**Note**: discord-irc requires Node.js version 6 or newer, as it depends on discord.js
 
 Before you can run discord-irc you need to create a configuration file by
 following the instructions [here](https://github.com/reactiflux/discord-irc#configuration).
